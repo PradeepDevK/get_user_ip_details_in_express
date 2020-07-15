@@ -1,0 +1,23 @@
+{
+  "name": "get_user_ip_details_in_express",
+  "version": "1.0.0",
+  "description": "Get user ip details in express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradeepDevK/get_user_ip_details_in_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradeepDevK/get_user_ip_details_in_express/issues"
+  },
+  "homepage": "https://github.com/PradeepDevK/get_user_ip_details_in_express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "geoip-lite": "^1.4.2"
+  }
+}
