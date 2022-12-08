@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/PradeepDevK/get_user_ip_details_in_express#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "geoip-lite": "^1.4.2"
   }
 }
